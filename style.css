@@ -3,8 +3,37 @@ img {
 }
 
 body {
-    text-align:center;
-    font-family: "Arial";
-    background: aliceblue;
-    color:gray;
+    font-family: "Josefin Sans";
+    background:#121212;
+}
+h1 {
+
+    color:whitesmoke;
+    
+}
+#h1-1{
+    font-size: 50px;
+    border-bottom: 1px solid gray;
+    text-align: center;
+}
+#h1-2{
+    font-size: 40px;
+    text-align: left;
+    border-bottom: 1px solid gray;
+    display: inline-block;
+}
+#h1-3{
+    font-size: 40px;
+    text-align: left;
+    border-bottom: 1px solid gray;
+    display: inline-block;
+}
+p {
+    text-align: left;
+    font-size: 24px;
+    color: whitesmoke;
+}
+#p1 {
+    text-align: center;
+    color:whitesmoke;
 }
